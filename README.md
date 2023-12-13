@@ -23,3 +23,5 @@
 ![](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+
+[![](https://img.shields.io/badge/pgp-ad96e0200673e2b6d24a7d25c37e4043df6810f1-blue?style=for-the-badge&logo=keybase)](https://keybase.io/spmadden)
